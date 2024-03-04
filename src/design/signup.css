@@ -1,0 +1,28 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  }
+
+label {
+  font-size: .7rem;
+}
+
+input.form-control, input.form-control:focus {
+  background: #F0F0FF;
+}
+
+.error {
+  position: absolute;
+  color: red;
+  font-size: .6rem;
+}
+
+/**/
+.background{
+  background-color: hsl(0, 0%, 96%);
+}
+.parag{
+  color: hsl(217, 14%, 31%);
+}
+.space{
+  padding-left: 0.5rem;
+}
